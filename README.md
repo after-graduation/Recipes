@@ -15,4 +15,4 @@ npm install
 
 ### live
 
-[Recipes]()
+[Recipes](https://recipes-hammad.netlify.app/)
